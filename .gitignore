@@ -292,3 +292,8 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+# Rars
+*.rar
+*.zip
+*.rar5
